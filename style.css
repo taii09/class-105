@@ -1,0 +1,28 @@
+body
+{
+   background: pink;
+   color: black;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects
+{
+    color: blueviolet;
+}
+
+#camera
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+.result_object_name,.name_of_objects
+{
+   color: blue;
+}
